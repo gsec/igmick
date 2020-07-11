@@ -1,2 +1,4 @@
 *.png
 .ropeproject/
+__pycache__
+cfg.py
