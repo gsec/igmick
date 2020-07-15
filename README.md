@@ -8,12 +8,11 @@ to specified recipient.
 Dependencies
 --------------------------------------------------------------------------------
 Install dependencies using `pip`:
-- `pip install -r requirements.txt`
+- `pip install --user -r requirements.txt`
 
 Needs:
 * pyscreenshot  (for grabbing the screen)
 * numpy         (to do image processing)
-* smtplib, ssl  (for sending mail)
 * matplotlib    (to plot image deltas) [optional]
 
 
